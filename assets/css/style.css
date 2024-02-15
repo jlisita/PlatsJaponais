@@ -1,0 +1,27 @@
+body
+{
+    background-color: bisque;
+}
+section
+{
+    margin: auto;
+    width: 900px;
+}
+h1,h2
+{
+    text-align: center;
+}
+img
+{
+    border-radius: 5px;
+    width:300px;
+}
+.image
+{
+    text-align: center;
+}
+
+footer
+{
+    border-top: 2px solid black;
+}
