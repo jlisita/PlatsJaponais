@@ -24,4 +24,15 @@ img
 footer
 {
     border-top: 2px solid black;
+    text-align: center;
+}
+#social-pictures
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+#social-pictures img
+{
+    width : 70px;
 }
